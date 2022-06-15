@@ -4,3 +4,5 @@
 # Usuario podem criar seus pdf de leituras.
 
 # Para fins de leitura e organização.
+
+# Para todos os usuario do aplicativo.
